@@ -460,3 +460,85 @@ select{
     background-color:rgba(0,0,0,0.5);
     display:none;
 }
+
+/* Image cards section */
+
+.card1
+{
+    height:360px;
+    width:281px;
+    padding:15px;
+    background-color: white;
+}
+.card2
+{
+    height:120px;
+    width:281px;
+    padding:16px;
+    background-color: white;
+    gap:10px;
+}
+.extra-img-part
+{
+    height: 240px;
+    width: 304px;
+}
+.extra-img{
+    height: 225px;
+    width: 312px;
+    margin-top: 44px;
+    margin-left: -15px;
+}
+.signin-card
+{
+    margin-bottom:10px;
+}
+
+.items-cont-card-head
+{
+    font-size:20px;
+    font-weight:bolder;
+    margin-bottom:20px;
+}
+.card-img
+{
+    height:100px;
+    width:130px;
+}
+.img-card-container
+{
+    display:flex;
+    gap:12px;
+}
+.Sub-section-para
+{
+    font-size:12px;
+    margin-bottom:12px;
+}
+.items-container
+{
+    padding-top:50px;
+    padding-left:26px;
+    padding-bottom:20px;
+    display:flex;
+    flex-direction: row;
+    gap:15px;
+    background-color:#cccccc;
+}
+
+a 
+{
+    font-size:12px;
+    text-decoration: none;
+    color:#007185;
+    font-weight: bold;
+}
+.items-container-btn
+{
+    width:260px;
+    height:30px;
+    background-color:#FFE101;
+    color:black;
+    border-width:0px;
+    border-radius:20px;
+}
