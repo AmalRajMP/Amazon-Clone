@@ -639,3 +639,14 @@ a
     height:217px;
 }
 
+.ad-img
+{
+    height: 280px;
+    width: 920px;
+}
+.ad-container
+{
+    display:flex;
+    justify-content:center;
+    background-color:#cccccc;
+}
